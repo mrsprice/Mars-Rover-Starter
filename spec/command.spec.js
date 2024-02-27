@@ -24,3 +24,5 @@ describe("Command class", function () {
     expect(command.value).toBe(value);
   });
 });
+
+// adding this because i forgot to enable actions
